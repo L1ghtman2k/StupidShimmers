@@ -1,0 +1,1 @@
+pssh -h hosts.txt -l root -O StrictHostKeyChecking=no -A -P -I<./commands_drop_IPTABLES.sh
