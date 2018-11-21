@@ -36,7 +36,6 @@ std::string exec(const char* cmd) {
 }
 int main (int argc, char*argv[])
 {
-	system("bash")
 	while(true){
 	cout<<"Tell me your password\n";
 	string test;
